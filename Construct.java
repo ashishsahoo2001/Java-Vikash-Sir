@@ -5,6 +5,8 @@ int y;
 
  Demo(int p, int q){
 System.out.println("Ashish");
+System.out.println("Ashish");
+
 x=p;
 y=q;
 System.out.println(x);
